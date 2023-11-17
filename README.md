@@ -13,6 +13,7 @@ rename .env.example file to .env
 ## Requirements
 
 - PHP Version ^8.x
+- Laravel Version ^10.x
 - composer
 - MySql
 - Node ^16.x
